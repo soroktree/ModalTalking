@@ -6,8 +6,13 @@ export default class extends Controller {
     console.log('xxx')
   }
   hideModal() {
-    console.log('close')
     this.element.parentElement.removeAttribute("src") // it might be nice to also remove the modal SRC
     this.element.remove()
   }
+  // submitEnd(e){
+  //   console.log()
+  //   if (e.detail.success){
+  //     this.hideModal()
+  //   }
+  // }
 }
