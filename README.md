@@ -1,24 +1,15 @@
-# README
+Crud with css dynamic modal style window. The idea was taken from yshmarov (Yaroslav Shmarov). The functionality has been expanded and developed from scratch.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This sample application includes:
 
-Things you may want to cover:
+* Ruby version 2.7
 
-* Ruby version
+* Rails 7
 
-* System dependencies
+* TailwindCSS modal styling
 
-* Configuration
+* Turbo stream CRUD operations
 
-* Database creation
+<img src="https://github.com/soroktree/ModalTalking/blob/main/app/assets/images/modal1.png" alt="screenshots" style="max-width: 100%;">
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
